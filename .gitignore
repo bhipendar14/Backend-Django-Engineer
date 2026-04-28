@@ -1,0 +1,5 @@
+fuel_api/venv/
+fuel_api/__pycache__/
+*.pyc
+fuel_api/db.sqlite3
+.env
